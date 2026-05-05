@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-ld7jv3.cashspins.co.uk/sitemap.xml
